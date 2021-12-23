@@ -1,5 +1,7 @@
 ---
-layout: default
+title: /
+layout: home
+permalink: /
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
