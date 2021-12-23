@@ -9,6 +9,7 @@ categories:
 
 # Syntax highlighting
 This theme supports syntax respectively code highlighting. Below you find some examples of different programming languages.
+<!--more-->
 
 <br />ruby:
 {% highlight ruby %}
